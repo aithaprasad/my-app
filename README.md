@@ -1,3 +1,11 @@
+# Live Demo of Covid Statistics using Pie Chart and Statistics Table
+
+[Click here for Live Demo](https://aithaprasad.github.io/my-app/)
+
+-- Hover on Pie chart gives you the category it falls into
+
+-- You have a search bar upon the table where you can search for country names 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
